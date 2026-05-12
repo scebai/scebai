@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>RSS フィード</title>
+		<link>./</link>
+		<description>RSSフィードのサンプルです。</description>
+		<language>ja</language>
+		<copyright>terraformworks 2025</copyright>
+		<ttl>120</ttl>      </channel>
+</rss>
